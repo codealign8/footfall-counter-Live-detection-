@@ -110,10 +110,10 @@ Session End: Total Entries: 3, Exits: 2
 | Documentation & Presentation | 15% | Clarity of README and visual output (overlays + demo). |
 
 ## Bonus Points
-- ✅ Real-time processing using webcam/RTSP stream**: JS webcam in Colab + local fallback.
-- ✅ Handling occlusions or overlapping people**: Via YOLO's re-ID and persistent tracking.
-- (Optional) Visualizing heatmaps or trajectory paths**: Add Matplotlib trajectories.
-- (Optional) Deploying a small API (Flask/FastAPI)**: Accepts video, returns counts (extend with FastAPI endpoint).
+- ✅ Real-time processing using webcam/RTSP stream: JS webcam in Colab + local fallback.
+- ✅ Handling occlusions or overlapping people: Via YOLO's re-ID and persistent tracking.
+- (Optional) Visualizing heatmaps or trajectory paths: Add Matplotlib trajectories.
+- (Optional) Deploying a small API (Flask/FastAPI): Accepts video, returns counts (extend with FastAPI endpoint).
 
 
-*Questions? Contact [ayabhid78@gmail.com.com]. Fork/Star appreciated! 🚀*
+Questions? Contact [ayabhid78@gmail.com.com]. Fork/Star appreciated! 🚀*
